@@ -1,0 +1,22 @@
+{
+  "name": "ng-eva-icon",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0",
+    "@angular/core": "^6.0.0"
+  },
+  "dependencies": {
+    "eva-icons": "^1.1.1",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/ng-eva-icon.umd.js",
+  "module": "fesm5/ng-eva-icon.js",
+  "es2015": "fesm2015/ng-eva-icon.js",
+  "esm5": "esm5/ng-eva-icon.js",
+  "esm2015": "esm2015/ng-eva-icon.js",
+  "fesm5": "fesm5/ng-eva-icon.js",
+  "fesm2015": "fesm2015/ng-eva-icon.js",
+  "typings": "ng-eva-icon.d.ts",
+  "metadata": "ng-eva-icon.metadata.json",
+  "sideEffects": false
+}

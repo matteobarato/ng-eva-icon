@@ -1,0 +1,12 @@
+{
+  "name": "ng-eva-icon",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0",
+    "@angular/core": "^6.0.0"
+  },
+  "dependencies": {
+    "eva-icons": "^1.1.1"
+  },
+  "keywords":["ionic","angular","icon","icons","animated","eva","eva-icons","eva-icon"]
+}
